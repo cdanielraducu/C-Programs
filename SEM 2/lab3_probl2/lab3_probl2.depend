@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552041560 source:c:\c programs\sem 2\lab3_probl2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+
