@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546880245 source:c:\cb\zmodel de test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

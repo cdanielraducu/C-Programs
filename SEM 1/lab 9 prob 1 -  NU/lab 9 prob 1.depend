@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544005380 source:c:\cb\lab 9 prob 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

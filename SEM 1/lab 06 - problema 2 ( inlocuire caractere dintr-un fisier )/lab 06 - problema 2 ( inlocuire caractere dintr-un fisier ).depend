@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541510018 source:c:\cb\lab 06 - problema 2 ( inlocuire caractere dintr-un fisier )\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

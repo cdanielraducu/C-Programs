@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542644501 source:c:\cb\lab 6 prob 4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542649343 source:c:\cb\lab 6 prob 4 nerezolvat\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542655069 source:c:\cb\lab 6 prob 4 rezolvat\main.c
+	<stdio.h>
+	<stdlib.h>
+

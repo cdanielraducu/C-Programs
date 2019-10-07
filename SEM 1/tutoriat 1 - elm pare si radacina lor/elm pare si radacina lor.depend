@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541054934 source:c:\cb\elm pare si radacina lor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

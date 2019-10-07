@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542375155 source:c:\cb\tutoriat 4 prob 2\main.c
+	<stdio.h>
+	<stdlib.h>
+

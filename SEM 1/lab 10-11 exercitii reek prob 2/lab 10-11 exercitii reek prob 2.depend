@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544534889 source:c:\cb\lab 10-11 exercitii reek prob 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

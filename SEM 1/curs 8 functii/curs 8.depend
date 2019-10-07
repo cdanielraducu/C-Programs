@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542873118 source:c:\cb\curs 8\main.c
+	<stdio.h>
+	<stdlib.h>
+

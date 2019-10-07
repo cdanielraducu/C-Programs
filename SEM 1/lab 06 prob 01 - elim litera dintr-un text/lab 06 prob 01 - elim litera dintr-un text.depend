@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542703823 source:c:\cb\lab 06 prob 01 - elim litera dintr-un text\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

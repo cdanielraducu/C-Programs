@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542225386 source:c:\cb\lab 03 prob 2 multime\main.c
+	<stdio.h>
+	<stdlib.h>
+

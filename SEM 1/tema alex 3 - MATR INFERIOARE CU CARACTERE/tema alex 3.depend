@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545386730 source:c:\cb\tema alex 3\main.c
+	<stdio.h>
+	<stdlib.h>
+

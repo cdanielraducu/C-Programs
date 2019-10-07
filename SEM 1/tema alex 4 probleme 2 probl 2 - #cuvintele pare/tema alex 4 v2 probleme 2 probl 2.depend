@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546537236 source:c:\cb\tema alex 4 v2 probleme 2 probl 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542705308 source:c:\cb\tutoriat 1 - litere mici in litere mari\main.c
+	<stdio.h>
+	<stdlib.h>
+

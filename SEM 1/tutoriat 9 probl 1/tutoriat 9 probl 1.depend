@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547814871 source:c:\cb\tutoriat 9 probl 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

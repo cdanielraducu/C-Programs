@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547739924 source:c:\cb\laborator recap probl 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547841690 source:c:\cb\matrice triunghiulara eficient\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542636995 source:c:\cb\lab 06 - prob 3 inversarea majuscule cu minuscule\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

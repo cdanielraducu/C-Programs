@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541587555 source:c:\cb\2  in 16\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541659461 source:c:\cb\lab 02 prob 4 - 2  in 16\main.c
+	<stdio.h>
+	<stdlib.h>
+

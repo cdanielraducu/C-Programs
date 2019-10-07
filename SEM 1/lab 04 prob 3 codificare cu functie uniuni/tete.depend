@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542560384 source:c:\cb\tete\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542560580 source:c:\cb\lab 04 prob 3\main.c
+	<stdio.h>
+	<stdlib.h>
+

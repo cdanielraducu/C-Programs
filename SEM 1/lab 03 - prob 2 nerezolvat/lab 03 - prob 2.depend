@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541662543 source:c:\cb\lab 03 - prob 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541685793 source:c:\cb\lab 03 - prob 2 nerezolvat\main.c
+	<stdio.h>
+	<stdlib.h>
+

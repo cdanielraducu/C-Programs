@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543489877 source:c:\cb\lab 8 prob v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
